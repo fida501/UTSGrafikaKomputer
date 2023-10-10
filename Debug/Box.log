@@ -1,0 +1,21 @@
+﻿  box.cpp
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(122,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(128,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(133,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(147,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(148,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(149,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(150,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(156,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(157,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(158,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(159,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(166,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(167,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(168,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(169,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(201,26): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(205,26): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(209,26): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\box.cpp(213,26): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  Box.vcxproj -> C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - File Otak Atik\Debug\Box.exe
