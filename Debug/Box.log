@@ -1,21 +1,12 @@
 ﻿  box.cpp
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(122,23): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(128,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(133,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(147,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(148,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(149,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(150,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(156,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(157,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(158,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(159,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(166,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(167,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(168,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(169,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(201,26): warning C4305: '-=': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(205,26): warning C4305: '+=': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(209,26): warning C4305: '+=': truncation from 'double' to 'GLfloat'
-C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(213,26): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(56,13): warning C4101: 'image': unreferenced local variable
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(97,52): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(192,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(199,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(204,32): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(227,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(228,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(229,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(230,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\box.cpp(264,42): warning C4305: 'initializing': truncation from 'double' to 'float'
   Box.vcxproj -> C:\Users\FIDA\Documents\opengl\ExperimenterSource\A - Git\UTSGrafikaKomputer\Debug\Box.exe

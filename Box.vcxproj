@@ -20,6 +20,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="box.cpp" />
+    <ClCompile Include="getBMP.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{7f50d019-ba1b-4dfa-a873-06e11f5da45a}</ProjectGuid>
